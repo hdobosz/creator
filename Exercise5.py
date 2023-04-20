@@ -64,7 +64,7 @@ elif name=='Dezember':
     print('Number of days: 31 days')
 
 
-# ## Task 5
+## Task 5
 
 numb=int(input('Number: '))
 num=3
@@ -77,4 +77,6 @@ else:
 if numb%num==0:
     print('and divisible by 3')
 else:
-    print('and undivisible by 3')     
+    print('and undivisible by 3')
+
+         

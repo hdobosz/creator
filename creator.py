@@ -26,7 +26,7 @@ if (name1_num == 1):
         print("Magic :" ,magic)
         print('---------------')
 elif (name1_num == 2):
-        print(name2,"is a Warrior!")
+        print(name1,"is a Warrior!")
         health=random.randint(5,10)
         print("Health: " ,health)
         strength=3*random.randint(5,10)
@@ -35,7 +35,7 @@ elif (name1_num == 2):
         print("Magic :" ,magic)
         print('---------------')
 elif (name1_num == 3):
-        print(name3,"is a Potato!")
+        print(name1,"is a Potato!")
         health=random.randint(5,10)
         print("Health: " ,3*health)
         strength=random.randint(5,10)
@@ -45,7 +45,7 @@ elif (name1_num == 3):
         print('---------------') 
 
 if (name2_num == 1):
-        print(name1,"is a Wizard!")
+        print(name2,"is a Wizard!")
         health=random.randint(5,10)
         print("Health: " ,health)
         strength=random.randint(5,10)
@@ -63,7 +63,7 @@ elif (name2_num == 2):
         print("Magic :" ,magic)
         print('---------------')
 elif (name2_num == 3):
-        print(name3,"is a Potato!")
+        print(name2,"is a Potato!")
         health=random.randint(5,10)
         print("Health: " ,3*health)
         strength=random.randint(5,10)
@@ -73,7 +73,7 @@ elif (name2_num == 3):
         print('---------------') 
 
 if (name3_num == 1):
-        print(name1,"is a Wizard!")
+        print(name3,"is a Wizard!")
         health=random.randint(5,10)
         print("Health: " ,health)
         strength=random.randint(5,10)
@@ -82,7 +82,7 @@ if (name3_num == 1):
         print("Magic :" ,magic)
         print('---------------')
 elif (name3_num == 2):
-        print(name2,"is a Warrior!")
+        print(name3,"is a Warrior!")
         health=random.randint(5,10)
         print("Health: " ,health)
         strength=3*random.randint(5,10)
@@ -101,7 +101,7 @@ elif (name3_num == 3):
         print('---------------') 
 
 if (name4_num == 1):
-        print(name1,"is a Wizard!")
+        print(name4,"is a Wizard!")
         health=random.randint(5,10)
         print("Health: " ,health)
         strength=random.randint(5,10)
@@ -110,7 +110,7 @@ if (name4_num == 1):
         print("Magic :" ,magic)
         print('---------------')
 elif (name4_num == 2):
-        print(name2,"is a Warrior!")
+        print(name4,"is a Warrior!")
         health=random.randint(5,10)
         print("Health: " ,health)
         strength=3*random.randint(5,10)
@@ -119,7 +119,7 @@ elif (name4_num == 2):
         print("Magic :" ,magic)
         print('---------------')
 elif (name4_num == 3):
-        print(name3,"is a Potato!")
+        print(name4,"is a Potato!")
         health=random.randint(5,10)
         print("Health: " ,3*health)
         strength=random.randint(5,10)
@@ -129,7 +129,7 @@ elif (name4_num == 3):
         print('---------------')   
 
 if (name5_num == 1):
-        print(name1,"is a Wizard!")
+        print(name5,"is a Wizard!")
         health=random.randint(5,10)
         print("Health: " ,health)
         strength=random.randint(5,10)
@@ -138,7 +138,7 @@ if (name5_num == 1):
         print("Magic :" ,magic)
         print('---------------')
 elif (name5_num == 2):
-        print(name2,"is a Warrior!")
+        print(name5,"is a Warrior!")
         health=random.randint(5,10)
         print("Health: " ,health)
         strength=3*random.randint(5,10)
@@ -147,13 +147,12 @@ elif (name5_num == 2):
         print("Magic :" ,magic)
         print('---------------')
 elif (name5_num == 3):
-        print(name3,"is a Potato!")
+        print(name5,"is a Potato!")
         health=random.randint(5,10)
         print("Health: " ,3*health)
         strength=random.randint(5,10)
         print("Strength: ",strength)
         magic=random.randint(5,10)
         print("Magic :" ,magic) 
-        print('---------------')               
+        print('---------------')  
 
- 
