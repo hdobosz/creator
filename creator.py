@@ -12,8 +12,8 @@ name2_num= random.randint(1,3)
 name3_num= random.randint(1,3)
 name4_num= random.randint(1,3)
 name5_num= random.randint(1,3)
-print("***YOUR CHARACTERS ARE COMPLETED!!!***")
 print()
+print("***YOUR CHARACTERS ARE COMPLETED!!!***")
 print()
 
 if (name1_num == 1):
